@@ -1,0 +1,11 @@
+# cmake output
+build/
+# mac bs
+.DS_Store
+# input and output
+*.json
+*.gif
+# vscode settings
+.vscode/
+# imgui cache
+imgui.ini

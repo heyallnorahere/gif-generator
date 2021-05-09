@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(gif-generator)
+add_subdirectory("vendor/glfw")
+add_subdirectory("vendor/glad")
+add_subdirectory("src")

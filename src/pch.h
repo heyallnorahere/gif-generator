@@ -1,0 +1,12 @@
+#pragma once
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+#include <glm/glm.hpp>
+#include <imgui.h>
+#include <nlohmann/json.hpp>
+#include <cstdint>
+#include <vector>
+#include <string>
+#include <sstream>
+#include <iostream>
+#include <memory>
