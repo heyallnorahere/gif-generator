@@ -3,6 +3,7 @@
 #include <GLFW/glfw3.h>
 #include <glm/glm.hpp>
 #include <imgui.h>
+#include <misc/cpp/imgui_stdlib.h>
 #include <nlohmann/json.hpp>
 #include <cstdint>
 #include <vector>
